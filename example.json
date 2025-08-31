@@ -1,0 +1,14 @@
+{
+  "hours_studied": 3.5,
+  "attendance_rate": 0.95,
+  "past_grades_avg": 78,
+  "extracurricular": "yes",
+  "parental_involvement": "medium",
+  "sleep_hours": 7.0,
+  "internet_access": "yes",
+  "test_prep_course": "completed",
+  "gender": "F",
+  "age": 16,
+  "school_support": "no",
+  "absences": 2
+}
